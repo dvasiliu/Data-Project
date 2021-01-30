@@ -29,7 +29,7 @@ Here we have an equation (LateX syntax):
 
 ![\Large \sqrt{2x+1}=\frac{2x}{x+1}](https://latex.codecogs.com/svg.latex?\sqrt{2x+1}=\frac{2x}{x+1})
 
-$\sqrt{2x+1}=\frac{2x}{x+1}$
+$$\sqrt{2x+1}=\frac{2x}{x+1}$$
 
 
 ### Markdown
