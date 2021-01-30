@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script>
 
 You can use the [editor on GitHub](https://github.com/dvasiliu/Data-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
