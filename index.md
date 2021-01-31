@@ -23,9 +23,7 @@ x <- c(1,2,3,4)
 y <- 2*x
 ```
 
-Here we have an equation (LateX syntax):
-
-![\Large \sqrt{2x+1}=\frac{2x}{x+1}](https://latex.codecogs.com/svg.latex?\Large{\sqrt{2x+1}=\frac{2x}{x+1}})
+Here we have an equation (LateX syntax): ![\Large \sqrt{2x+1}=\frac{2x}{x+1}](https://latex.codecogs.com/svg.latex?\Large{\sqrt{2x+1}=\frac{2x}{x+1}})
 
 
 
