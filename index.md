@@ -1,9 +1,5 @@
 ## Welcome
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
 
 You can use the [editor on GitHub](https://github.com/dvasiliu/Data-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -29,9 +25,9 @@ y <- 2*x
 
 Here we have an equation (LateX syntax):
 
-![\Large \sqrt{2x+1}=\frac{2x}{x+1}](https://latex.codecogs.com/svg.latex?\sqrt{2x+1}=\frac{2x}{x+1})
+![\Large \sqrt{2x+1}=\frac{2x}{x+1}](https://latex.codecogs.com/svg.latex?\Large{\sqrt{2x+1}=\frac{2x}{x+1}})
 
-$$\sqrt{2x+1}=\frac{2x}{x+1}$$
+
 
 
 ### Markdown
